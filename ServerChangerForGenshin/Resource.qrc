@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/gif">
+        <file>C:/Users/Soggy/Desktop/G/ayaka.png</file>
+        <file>C:/Users/Soggy/Desktop/G/klee.png</file>
+        <file>C:/Users/Soggy/Desktop/G/kokusei.png</file>
+        <file>C:/Users/Soggy/Desktop/G/kurumi.png</file>
+        <file>C:/Users/Soggy/Desktop/G/shogun.png</file>
+        <file>C:/Users/Soggy/Desktop/G/start.gif</file>
+        <file>C:/Users/Soggy/Desktop/G/kokomi.png</file>
+        <file>C:/Users/Soggy/Desktop/G/m.png</file>
+        <file>C:/Users/Soggy/Desktop/G/nahida.jpeg</file>
+    </qresource>
+</RCC>
