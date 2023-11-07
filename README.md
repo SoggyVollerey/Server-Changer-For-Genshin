@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="./MyResources/Klee.ico"><img src="./resource/Klee.ico">
+    <img src="./resource/Klee.ico">
 </p>
 
 <h1 align="center">
